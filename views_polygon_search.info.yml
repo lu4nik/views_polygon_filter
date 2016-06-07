@@ -1,0 +1,7 @@
+name: Views Polygon Search
+type: module
+description: My Awesome Module
+core: 8.x
+package: Location
+dependencies:
+ - geofield
